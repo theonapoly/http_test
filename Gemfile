@@ -1,0 +1,9 @@
+source "https://rubygems.org"
+gem 'http'
+gem 'dotenv'
+gem 'json'
+ruby '3.0.0'
+gem 'rspec'
+gem 'pry'
+gem 'rubocop'
+gem 'rspec'
